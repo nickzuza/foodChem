@@ -71,16 +71,16 @@
                 <div class="productPage-top">
                     <div class="productPage-sliders">
                         <div class="productPage-sliders_big">
-                            <div class="slide" ><div class="img" style="background-image: url(http://www.fantastic.md/GetGoodsImage.aspx?id=77173&mode=pict)"></div></div>
-                            <div class="slide"><div class=" img" style="background-image: url(http://www.fantastic.md/GetGoodsImage.aspx?id=157091&mode=pict)" ></div></div>
-                            <div class="slide"><div class=" img" style="background-image: url(http://www.fantastic.md/GetGoodsImage.aspx?id=135802&mode=pict)" ></div></div>
-                            <div class="slide"><div class=" img" style="background-image: url(http://www.fantastic.md/GetGoodsImage.aspx?id=127521&mode=pict)" ></div></div>
+                            <div class="slide" ><div class="img" style="background-image: url(https://i.simpalsmedia.com/marketplace/products/original/ecfce126de0388ae8db56e62e9c716e0.jpg)"></div></div>
+                            <div class="slide"><div class=" img" style="background-image: url(https://i.simpalsmedia.com/marketplace/products/original/ecfce126de0388ae8db56e62e9c716e0.jpg)" ></div></div>
+                            <div class="slide"><div class=" img" style="background-image: url(https://i.simpalsmedia.com/marketplace/products/original/ecfce126de0388ae8db56e62e9c716e0.jpg)" ></div></div>
+                            <div class="slide"><div class=" img" style="background-image: url(https://i.simpalsmedia.com/marketplace/products/original/ecfce126de0388ae8db56e62e9c716e0.jpg)" ></div></div>
                         </div>
                         <div class="productPage-sliders_nav">
-                            <div class="slide" ><div class="img" style="background-image: url(http://www.fantastic.md/GetGoodsImage.aspx?id=77173&mode=pict)"></div></div>
-                            <div class="slide"><div class=" img" style="background-image: url(http://www.fantastic.md/GetGoodsImage.aspx?id=157091&mode=pict)" ></div></div>
-                            <div class="slide"><div class=" img" style="background-image: url(http://www.fantastic.md/GetGoodsImage.aspx?id=135802&mode=pict)" ></div></div>
-                            <div class="slide"><div class=" img" style="background-image: url(http://www.fantastic.md/GetGoodsImage.aspx?id=127521&mode=pict)" ></div></div>
+                            <div class="slide" ><div class="img" style="background-image: url(https://i.simpalsmedia.com/marketplace/products/original/ecfce126de0388ae8db56e62e9c716e0.jpg)"></div></div>
+                            <div class="slide"><div class=" img" style="background-image: url(https://i.simpalsmedia.com/marketplace/products/original/ecfce126de0388ae8db56e62e9c716e0.jpg)" ></div></div>
+                            <div class="slide"><div class=" img" style="background-image: url(https://i.simpalsmedia.com/marketplace/products/original/ecfce126de0388ae8db56e62e9c716e0.jpg)" ></div></div>
+                            <div class="slide"><div class=" img" style="background-image: url(https://i.simpalsmedia.com/marketplace/products/original/ecfce126de0388ae8db56e62e9c716e0.jpg)" ></div></div>
                         </div>
                     </div>
                     <div class="productPage-info">

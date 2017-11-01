@@ -71,6 +71,7 @@ Vue.component('modal', {
                 });
                 $('.productPage-sliders_nav').slick({
                     slidesToShow:4,
+                    focusOnSelect: true,
                     arrows:false,
                     autoplay:true,
                     autoplaySpeed:4000,
