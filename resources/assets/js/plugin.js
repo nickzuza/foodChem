@@ -5,7 +5,9 @@ import liveSearch from './components/liveSearch';
 
 window.head = new Vue({
     el:".header",
+
     data:{
+        loader:false,
         lang:false,
         openCatalog:false,
         unFixCat:true,

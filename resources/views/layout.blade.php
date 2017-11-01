@@ -16,7 +16,17 @@
 </head>
 <body >
 <header class="header">
-
+    <transition name="fade">
+        <div class="preloader" v-if="loader" v-cloak>
+            <div class="el-loading-mask is-fullscreen" style="">
+                <div class="el-loading-spinner">
+                    <svg viewBox="25 25 50 50" class="circular">
+                        <circle cx="50" cy="50" r="20" fill="none" class="path"></circle>
+                    </svg>
+                </div>
+            </div>
+        </div>
+    </transition>
     <div class="header-top-wrapper">
         <div class="container">
             <div class="header-top">

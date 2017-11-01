@@ -28430,7 +28430,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 window.head = new Vue({
     el: ".header",
+
     data: {
+        loader: false,
         lang: false,
         openCatalog: false,
         unFixCat: true,
